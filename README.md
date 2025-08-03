@@ -71,9 +71,3 @@ Information overload and unreliable sources have made academic research increasi
 ## 🙋‍♂️ Author
 
 Built by **Anish Sambhwani**, a Computer Science Engineering student passionate about solving real-world problems using responsible AI.
-
----
-
-
-## 📂 Project Structure (If Applicable)
-
